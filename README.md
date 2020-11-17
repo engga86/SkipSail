@@ -4,4 +4,6 @@
 Skip the obsticals get gems to earn points.
 
 Published on Google play
-[Skil Sail](https://www.critaz.online)
+[Skip Sail](https://play.google.com/store/apps/details?id=com.Critaz.ShipSail)
+
+[Landing Page](https://www.critaz.online)
