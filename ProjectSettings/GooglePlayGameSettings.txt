@@ -1,0 +1,9 @@
+lastUpgrade=01006
+proj.pluginVersion=0.10.06
+proj.AppId=537279300622
+and.BundleId=com.Critaz.ShipSail
+proj.classDir=Assets
+proj.ConstantsClassName=SSGPS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e537279300622%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Critaz.ShipSail%3c%2fstring%3e%0d%0a++%3c%21--+achievement+1000m%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_1000m%22+translatable%3d%22false%22%3eCgkIjojewtEPEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+2000m%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_2000m%22+translatable%3d%22false%22%3eCgkIjojewtEPEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+3000m%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_3000m%22+translatable%3d%22false%22%3eCgkIjojewtEPEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+4000m%21%3f+--%3e%0d%0a++%3cstring+name%3d%22achievement_4000m%22+translatable%3d%22false%22%3eCgkIjojewtEPEAIQBA%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
